@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hasnat</h1>
-<h3 align="center">i am passionate about web devlopment and ML</h3>
+<h3 align="center">I am passionate about web devlopment and ML</h3>
 <img width="460" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-arif-hasnat99&label=Profile%20views&color=0e75b6&style=flat" alt="md-arif-hasnat99" /> </p>
 
