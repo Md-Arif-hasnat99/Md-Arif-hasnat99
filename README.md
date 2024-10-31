@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hasnat</h1>
-<h3 align="center">I am passionate about web devlopment and ML</h3>
-<img width="460" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="">
+<h3 align="center">i am passionate about web development and ML</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-arif-hasnat99&label=Profile%20views&color=0e75b6&style=flat" alt="md-arif-hasnat99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-arif-hasnat99" alt="md-arif-hasnat99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/myself_arif_03" target="blank"><img src="https://img.shields.io/twitter/follow/myself_arif_03?logo=twitter&style=for-the-badge" alt="myself_arif_03" /></a> </p>
 
-- 🌱 I’m currently learning  web dev
-<br>
-- 📫  reach me mdarifhasnat06@gmail.com
+- 🌱 I’m currently learning **web development**
+
+- 📫 How to reach me **mdarifhasnat06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-arif-hasnat99&show_icons=true&locale=en&layout=compact" alt="md-arif-hasnat99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-arif-hasnat99&show_icons=true&locale=en" alt="md-arif-hasnat99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-arif-hasnat99&" alt="md-arif-hasnat99" /></p>
