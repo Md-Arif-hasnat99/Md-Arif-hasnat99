@@ -3,7 +3,7 @@
 
 ## 💻 About Me
 
-Hi, I'm **Md Arif Hasnat**, a **3rd-Year Computer Science and Engineering** student specializing in frontend development. My strong foundation in **C**, **JAVA**,** HTML**,**CSS** and **JavaScript** drives my passion for technical problem-solving and building clean user web interfaces 💻.
+Hi, I'm **Md Arif Hasnat**, a **3rd-Year Computer Science and Engineering** student specializing in frontend development. My strong foundation in **C**, **JAVA**,**HTML**,**CSS** and **JavaScript** drives my passion for technical problem-solving and building clean user web interfaces 💻.
 
  I am currently expanding my expertise to become a full-stack MERN developer and am actively enhancing my web development skills through hands-on collaborative projects.
 
