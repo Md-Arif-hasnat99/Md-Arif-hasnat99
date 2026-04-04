@@ -25,6 +25,7 @@ I am always eager to collaborate on innovative projects and seek new opportuniti
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 
 ### 🛠️ Tools & Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -34,6 +35,7 @@ I am always eager to collaborate on innovative projects and seek new opportuniti
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="48" alt="Google Colab" />
 
 ## 🔗 Let's Connect
 
@@ -44,12 +46,12 @@ I am always eager to collaborate on innovative projects and seek new opportuniti
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Md-Arif-Hasnat99&color=green&style=flat-square)  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Arif-Hasnat99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Md-Arif-Hasnat99&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF" height="165"/>
-</p>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Arif-Hasnat99&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="md-arif-hasnat99" /></p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Arif-Hasnat99&theme=dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph"/>
+<p align="left">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Md-Arif-hasnat99&layout=compact&theme=chartreuse-dark&hide_border=true" width="25%" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Md-Arif-hasnat99&theme=chartreuse-dark&hide_border=true" height="160" alt="Streak Stats" /> </p>
+  <p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Arif-Hasnat99&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" height="380" alt="Activity Graph" />
+</p>
