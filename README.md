@@ -6,7 +6,7 @@ arif@dev:~$ whoami
 
 # Md Arif Hasnat
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=560&lines=Full+Stack+ML+Engineer;Database+%2B+Backend+APIs;MERN+%2B+Next.js+%2B+Supabase;Currently+building+YojnaMitra+%26+VibeStream" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+ML+Engineer;AI+Enthusiast;Database+%2B+Backend+APIs;MERN+%2B+Next.js+%2B+Supabase;Currently+building+Researchly" alt="Typing SVG" />
 
 </div>
 
